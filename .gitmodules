@@ -1,3 +1,3 @@
 [submodule "strimzi-kafka-cli"]
-	path = strimzi-kafka-cli
+	path = strimzi-kafka-cli/website
 	url = https://github.com/systemcraftsman/strimzi-kafka-cli
